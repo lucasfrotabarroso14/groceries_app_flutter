@@ -1,10 +1,6 @@
 # groceries_app_flutter
 
 
- ![Formulario](https://i.imgur.com/o4qrhCQ.png)
+ ![Formulario](https://i.imgur.com/9ohfmba.png)
 
 
-
-
-## groceries_app_flutter
-![tela principal](https://i.imgur.com/9ohfmba.png)
